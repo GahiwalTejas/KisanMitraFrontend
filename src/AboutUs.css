@@ -1,0 +1,5 @@
+.my-card {
+    background-color: transparent; /* Set the background color to transparent */
+    border: none; /* Remove the border */
+    box-shadow: none; /* Remove any box shadow */
+}

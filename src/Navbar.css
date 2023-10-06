@@ -1,0 +1,26 @@
+/* Navbar.css */
+
+.custom-navbar {
+  position:sticky;
+    height: 80px;
+    top: 0;
+    z-index: 100;
+  }
+  
+  .navbar-brand {
+    padding: 10px 0;
+  }
+  
+  .logo-image {
+    width: 100px; /* Adjust width as needed */
+    height: 100px; /* Maintain aspect ratio */
+  
+    
+  }
+  .center-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200;
+  }
+  
