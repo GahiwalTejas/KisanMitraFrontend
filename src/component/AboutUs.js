@@ -12,19 +12,20 @@ const AboutUs = () => {
             </div>
             <div className="card text-center my-card">
                 <div className="card-body">
+                    <h3 style={{ color: 'lightyellow' }}>Mr. Tejas Gahiwal</h3>
+                    <p className="card-text" style={{ color: 'lightyellow' }}>PRN-230340820027</p>
+                    <p className="card-text" style={{ color: 'lightyellow' }}>PG-DAC CDAC March-2023</p>
+                </div>
+            </div>
+            <div className="card text-center my-card">
+                <div className="card-body">
                     <h1 className="card-title text-primary" style={{ color: 'lightyellow' }}>Meet Our Team</h1>
                     <h3 style={{ color: 'lightyellow' }}>Mr. Vinit Ingale</h3>
                     <p className="card-text" style={{ color: 'lightyellow' }}>PRN-230340820031</p>
                     <p className="card-text" style={{ color: 'lightyellow' }}>PG-DAC CDAC March-2023</p>
                 </div>
             </div>
-            <div className="card text-center my-card">
-                <div className="card-body">
-                    <h3 style={{ color: 'lightyellow' }}>Mr. Tejas Gahiwal</h3>
-                    <p className="card-text" style={{ color: 'lightyellow' }}>PRN-230340820027</p>
-                    <p className="card-text" style={{ color: 'lightyellow' }}>PG-DAC CDAC March-2023</p>
-                </div>
-            </div>
+           
             <div className="card text-center my-card">
                 <div className="card-body">
                     <h3 style={{ color: 'lightyellow' }}>Mr. Alif Shaikh</h3>
